@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="choose_players">Qui va jouer ?</string>
+    <string name="play">Jouer !</string>
+    <string name="play2">C\'est parti !</string>
+</resources>
